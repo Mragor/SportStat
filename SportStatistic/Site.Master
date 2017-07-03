@@ -91,7 +91,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Konakov Egor - </p>
+                <p>&copy; <%: DateTime.Now.Year %> - Konakov Egor - 1</p>
             </footer>
         </div>
     </form>
