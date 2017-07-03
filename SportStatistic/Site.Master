@@ -91,7 +91,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Konakov Egor - Судейство спортивной гимастики</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Konakov Egor - </p>
             </footer>
         </div>
     </form>
